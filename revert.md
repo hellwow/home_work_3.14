@@ -1,3 +1,5 @@
+[<< вернутся к содержанию](./readme.md)
+
 ## Git revert
 
 **git revert**

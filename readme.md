@@ -28,6 +28,8 @@ LICENSE: [MIT](./license.md)
 
    3.8 [git show](./show.md)
 
+4. [Заключение](./conclusion.md)
+
 
 ---
 
